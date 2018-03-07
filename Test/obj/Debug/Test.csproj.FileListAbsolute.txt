@@ -1,0 +1,6 @@
+D:\Code\AutoUpdate\Test\bin\Debug\Test.exe.config
+D:\Code\AutoUpdate\Test\bin\Debug\Test.exe
+D:\Code\AutoUpdate\Test\bin\Debug\Test.pdb
+D:\Code\AutoUpdate\Test\obj\Debug\Test.exe
+D:\Code\AutoUpdate\Test\obj\Debug\Test.pdb
+D:\Code\AutoUpdate\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
