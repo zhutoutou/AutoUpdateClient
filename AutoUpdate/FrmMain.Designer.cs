@@ -1,4 +1,8 @@
-﻿namespace AutoUpdate
+﻿using System.Drawing;
+using System.Windows.Forms.VisualStyles;
+using CustomControls;
+
+namespace AutoUpdate
 {
     partial class FrmMain
     {
@@ -35,12 +39,14 @@
             this.panelTitle = new DevExpress.XtraEditors.PanelControl();
             this.picWinmin = new DevExpress.XtraEditors.PictureEdit();
             this.picWinclose = new DevExpress.XtraEditors.PictureEdit();
+            this.picEidtEx = new CustomControls.PicEidtEx();
             ((System.ComponentModel.ISupportInitialize)(this.progressBarinfo.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelTitle)).BeginInit();
             this.panelTitle.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picWinmin.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picWinclose.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picEidtEx.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // progressBarinfo
@@ -71,6 +77,7 @@
             this.panelTitle.ContentImage = ((System.Drawing.Image)(resources.GetObject("panelTitle.ContentImage")));
             this.panelTitle.Controls.Add(this.picWinmin);
             this.panelTitle.Controls.Add(this.picWinclose);
+            this.panelTitle.Controls.Add(this.picEidtEx);
             this.panelTitle.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTitle.Location = new System.Drawing.Point(0, 0);
             this.panelTitle.Name = "panelTitle";
@@ -82,7 +89,7 @@
             // 
             // picWinmin
             // 
-            this.picWinmin.EditValue = global::AutoUpdate.Properties.Resources.最小化;
+            this.picWinmin.EditValue = global::AutoUpdate.Properties.Resources.minimize;
             this.picWinmin.Location = new System.Drawing.Point(370, 0);
             this.picWinmin.Margin = new System.Windows.Forms.Padding(0);
             this.picWinmin.Name = "picWinmin";
@@ -102,7 +109,7 @@
             // 
             // picWinclose
             // 
-            this.picWinclose.EditValue = global::AutoUpdate.Properties.Resources.关闭_;
+            this.picWinclose.EditValue = global::AutoUpdate.Properties.Resources.close;
             this.picWinclose.Location = new System.Drawing.Point(400, 0);
             this.picWinclose.Margin = new System.Windows.Forms.Padding(0);
             this.picWinclose.Name = "picWinclose";
@@ -119,6 +126,23 @@
             this.picWinclose.MouseEnter += new System.EventHandler(this.picWinclose_MouseEnter);
             this.picWinclose.MouseLeave += new System.EventHandler(this.picWinclose_MouseLeave);
             this.picWinclose.MouseUp += new System.Windows.Forms.MouseEventHandler(this.picWinclose_MouseUp);
+            // 
+            // picEidtEx
+            // 
+            this.picEidtEx.ClickColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.picEidtEx.EditValue = global::AutoUpdate.Properties.Resources.close;
+            this.picEidtEx.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.picEidtEx.Location = new System.Drawing.Point(200, 0);
+            this.picEidtEx.Margin = new System.Windows.Forms.Padding(0);
+            this.picEidtEx.Name = "picEidtEx";
+            this.picEidtEx.Properties.Appearance.BackColor = System.Drawing.Color.Transparent;
+            this.picEidtEx.Properties.Appearance.Options.UseBackColor = true;
+            this.picEidtEx.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.picEidtEx.Properties.ReadOnly = true;
+            this.picEidtEx.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.picEidtEx.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.picEidtEx.Size = new System.Drawing.Size(30, 20);
+            this.picEidtEx.TabIndex = 5;
             // 
             // FrmMain
             // 
@@ -140,6 +164,7 @@
             this.panelTitle.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picWinmin.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picWinclose.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picEidtEx.Properties)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -153,6 +178,7 @@
         private DevExpress.XtraEditors.PictureEdit picWinmin;
         private DevExpress.XtraEditors.PictureEdit picWinclose;
         private DevExpress.XtraEditors.PanelControl panelControl1;
+        private CustomControls.PicEidtEx picEidtEx;
     }
 }
 
