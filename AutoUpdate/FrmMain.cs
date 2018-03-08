@@ -11,6 +11,8 @@ namespace AutoUpdate
         public FrmMain()
         {
             InitializeComponent();
+            this.picEidtEx.ClickColor = Color.FromArgb(100, 100, 100, 255);
+            this.picEidtEx.HoverColor = Color.FromArgb(100, 200, 0, 0);
             labelState.Text = "开始运行";
         }
 
@@ -135,6 +137,7 @@ namespace AutoUpdate
             }
         }
         #endregion
+
         #region 最小化按钮的事件
         private void picWinmin_MouseEnter(object sender, EventArgs e)
         {
@@ -166,7 +169,7 @@ namespace AutoUpdate
 
 
         #endregion
-
+        
         #region 关闭按钮的事件
         private void picWinclose_MouseEnter(object sender, EventArgs e)
         {

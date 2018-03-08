@@ -4,3 +4,10 @@ D:\Code\AutoUpdate\Test\bin\Debug\Test.pdb
 D:\Code\AutoUpdate\Test\obj\Debug\Test.exe
 D:\Code\AutoUpdate\Test\obj\Debug\Test.pdb
 D:\Code\AutoUpdate\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Work Space\AutoUpdateClient\Test\bin\Debug\Test.exe.config
+F:\Work Space\AutoUpdateClient\Test\bin\Debug\Test.exe
+F:\Work Space\AutoUpdateClient\Test\bin\Debug\Test.pdb
+F:\Work Space\AutoUpdateClient\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Work Space\AutoUpdateClient\Test\obj\Debug\Test.exe
+F:\Work Space\AutoUpdateClient\Test\obj\Debug\Test.pdb
+F:\Work Space\AutoUpdateClient\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

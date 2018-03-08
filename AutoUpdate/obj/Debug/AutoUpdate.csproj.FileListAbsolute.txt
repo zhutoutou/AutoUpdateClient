@@ -37,3 +37,46 @@ D:\Code\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
 D:\Code\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe.licenses
 D:\Code\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
 D:\Code\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\AutoUpdate.exe
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\AutoUpdate.pdb
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.Data.v15.2.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.Utils.v15.2.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.Data.v15.2.xml
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.Utils.v15.2.xml
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+F:\Work Space\AutoUpdateClient\AutoUpdate\obj\Debug\AutoUpdate.FrmMain.resources
+F:\Work Space\AutoUpdateClient\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+F:\Work Space\AutoUpdateClient\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+F:\Work Space\AutoUpdateClient\AutoUpdate\obj\Debug\AutoUpdate.exe.licenses
+F:\Work Space\AutoUpdateClient\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+F:\Work Space\AutoUpdateClient\AutoUpdate\obj\Debug\AutoUpdate.exe
+F:\Work Space\AutoUpdateClient\AutoUpdate\obj\Debug\AutoUpdate.pdb
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\CustomControls.dll
+F:\Work Space\AutoUpdateClient\AutoUpdate\bin\Debug\CustomControls.pdb
